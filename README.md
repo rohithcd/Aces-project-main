@@ -1,2 +1,2 @@
-# Area-of-Triangle
-program to find area of triangle.
+# Aces Project main
+solved lab cycle programs
