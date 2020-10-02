@@ -21,8 +21,11 @@ int main()
     {
         t=t*(-1)*x*x/(2*i*(2*i-1));
         sum=sum+t;
+        
+
     }
      
     cout<<" The value of Cos("<<x<<") = "<<setprecision(4)<<sum;
+    cout << "Thanku" << endl;
     return 0;
 }
