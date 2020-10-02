@@ -7,15 +7,15 @@ cout << "\t\t\tCalculator" << endl;
 cout << "\t\t\t==========" << endl;
 
 double a, b;
-char opr;
+char Opr;
 
 cout << "Enter two numbers > " << flush;
 cin >> a >> b ;
 
 cout << "Operation to be done > " << flush;
-cin >> opr;
+cin >> Opr;
 
-switch(opr)
+switch(Opr)
 {
 case '+':
 cout << "a+b= " << a+b << endl;
